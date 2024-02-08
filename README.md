@@ -5,11 +5,6 @@
 |    Meow~    |
 +-------------+
 
-😺 Hello there~ This is @Saplyn, a cat of the wild.
-😽 I’m currently studying Computer Science in SDUW.
-😼 I'm Interested in Progamming, Game Creating, Painting, Animating and Fish-patting~
-😻 I have a Bilibili channel. If you like my works, please like, share and subscribe~
-
 ~$ _
 ```
 
