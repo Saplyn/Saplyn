@@ -1,11 +1,25 @@
 ```
-~$ cat saplyn
+prj_lyn on  main
+❯ lyn intro
 
-+-------------+
-|    Meow~    |
-+-------------+
+[bio]  Hi! I‘m Saplyn, a CS student learning to code, undergraduate.
+[lang] Rust(^), C(^), CPP(~), Java(~), JavaScript(~), Haskell(_)
 
-~$ _
+prj_lyn on  main
+❯ lyn env
+
+[os]  Ubuntu 22.04 jammy
+[sh]  zsh + oh-my-zsh + starship prompt
+[ide] Visual Studio Code, NeoVim
+
+prj_lyn on  main
+❯ lyn highlight
+
+thread 'main' panicked at src/highlight.rs:#:#:
+not yet implemented
+
+prj_lyn on  main
+❯ _
 ```
 
 <!---
