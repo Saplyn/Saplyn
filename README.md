@@ -10,13 +10,15 @@ prj_lyn on git main
 
 [os]  Ubuntu 22.04 jammy
 [sh]  zsh + oh-my-zsh + starship prompt
-[ide] Visual Studio Code, NeoVim
+[ide] NeoVim, Visual Studio Code
 
 prj_lyn on git main
 ❯ lyn highlight
 
-thread 'main' panicked at src/highlight.rs:#:#:
-not yet implemented
+[prj](Saplyn/yew-lmth)   A Rust macro crate for writing HTML-like syntax for Yew application, inspired by Sycamore and Dioxus.
+[asg](Saplyn/vix)        A Vim-like text editor as my Data Structure Course Design final assignment, written in Rust.
+[asg](Saplyn/fantaship)  A custom software registry as my Database Course Design final assignment, where I taught myself SurrealDB (just for fun).
+[cfg](Saplyn/lazyvim)    My NeoVim configuration, based on LazyVim and functions like an actual IDE.
 
 prj_lyn on git main
 ❯ _
