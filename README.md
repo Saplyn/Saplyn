@@ -8,7 +8,7 @@ prj_lyn on git main
 prj_lyn on git main
 ❯ lyn env
 
-[os]  Ubuntu 22.04 jammy
+[os]  Manjaro Linux x86_64
 [sh]  zsh + oh-my-zsh + starship prompt
 [ide] NeoVim, Visual Studio Code
 
